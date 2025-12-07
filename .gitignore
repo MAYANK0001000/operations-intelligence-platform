@@ -1,10 +1,15 @@
+# Ignore logs
+logs/
+logs/*.txt
+
+# Ignore data files
 data_raw/
 data_processed/
-logs/
+
+# Ignore Python cache
 __pycache__/
 *.pyc
-*.csv
-*.txt
-.vscode/
-.idea/
 *.DS_Store
+
+# Ignore environment files
+.env

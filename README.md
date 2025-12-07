@@ -58,3 +58,32 @@
 │  • Trends, uptime %, error spikes, critical hours      │
 │  • Predictive risk visualization                       │
 └────────────────────────────────────────────────────────┘
+
+
+## 🔖 Badges
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+---
+
+## ⭐ Key Highlights
+
+- End-to-end data pipeline (ingestion → cleaning → KPIs → forecasting → alerts)  
+- Production-style directory structure and logging  
+- Forecasting engine predicting the next 6 hours of operational load  
+- Alerting module with severity classification (LOW / MEDIUM / HIGH)  
+- Clean Power BI–ready KPI datasets (daily + hourly)  
+- Built with industry-standard tools: **Python, pandas, NumPy, scikit-learn, matplotlib**  
+- Follows analytics workflows used in aviation, automotive, telecom, and IT operations  
+
+
+---
+
+## 📌 Summary for CV / LinkedIn
+
+**Operations Intelligence & Predictive Analytics Platform (Python, ML, Power BI)**  
+Built an end-to-end data analytics platform including ingestion, cleaning, KPI computation, forecasting, and automated alerting. Implemented rolling metrics, anomaly detection, and a regression-based forecasting module to predict operational load. Produced dashboard-ready datasets for Power BI and logged incidents with severity classification.

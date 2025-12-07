@@ -68,7 +68,6 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-
 ---
 
 ## ⭐ Key Highlights
